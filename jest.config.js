@@ -6,6 +6,7 @@ module.exports = {
     "src-vite/**",
     "!src-vite/index.tsx",
     "!src-vite/tests/**",
-    "!src-vite/dist/**"
+    "!src-vite/dist/**",
+    "!src-vite/coverage/**"
   ]
 }
