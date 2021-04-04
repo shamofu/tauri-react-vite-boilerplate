@@ -10,7 +10,7 @@ exports[`component ExampleApp 1`] = `
   }
 >
   <h1>
-    Electron + React + Vite
+    Tauri + React + Vite
   </h1>
   <h3>
     <a
